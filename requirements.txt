@@ -1,0 +1,7 @@
+opencv-python
+torch
+yolov5
+imutils
+pyttsx3
+requests
+Pillow
